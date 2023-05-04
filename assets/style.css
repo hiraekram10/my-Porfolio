@@ -448,7 +448,7 @@ ul li a:hover {
     transition: all .4s ease-in-out;
 }
 
-/* #bottom .bottom-nav ul a {
+ #bottom .bottom-nav ul a {
     text-decoration: none;
 
 }
@@ -459,7 +459,7 @@ ul li a:hover {
 
 #bottom .bottom-nav li:active {
     background-color: var(--pink);
-} */
+} 
 
 .cpy-white {
     color: white;
